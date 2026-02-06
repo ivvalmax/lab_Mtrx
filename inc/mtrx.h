@@ -5,5 +5,6 @@
 
 void mtrxInit(void);
 void mtrxPointWrite(uint8_t x, uint8_t y);
-
+void mtrxSnakeMove(void);
+void mtrxTest(void);
 #endif

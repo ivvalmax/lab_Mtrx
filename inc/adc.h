@@ -5,6 +5,6 @@
 
 void adcInit(void);
 void adcStart(void);
-uint8_t adcRead(uint8_t channel);
+uint8_t adcRead(void);
 
 #endif
